@@ -30,8 +30,3 @@ def on_ready():
     print("Request handler is running") 
 
 client.start(thread=True)
-
-if __name__ == "__main__":
-    while True:
-        # your entire script logic goes here
-        pass
